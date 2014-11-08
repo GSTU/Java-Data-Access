@@ -18,5 +18,7 @@ CREATE TABLE users
 )
 ```
 
-
+================
 JDBCSpringTemplateExample - пример использования шаблонов Spring Framework для упрощения доступа к данным с использованием JDBC
+
+JDBC-example - пример подключения к БД с использованием чистого JDBC
